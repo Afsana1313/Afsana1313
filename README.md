@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Assalamu Alaikum, I'm Afsana Zaman!
 
 I'm a passionate and results-driven **Software Developer** specializing in building modern, scalable web applications using **JavaScript**, **TypeScript**, **React.js**, **Next.js**, and **Node.js**.
 
