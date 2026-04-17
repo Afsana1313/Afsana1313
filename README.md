@@ -23,9 +23,9 @@ I'm a passionate and results-driven **Software Developer** specializing in build
   
 **For CSS Framework** 
 <p dir="auto">
-![Semantic UI](https://img.shields.io/badge/Semantic_UI-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+    <img src="https://img.shields.io/badge/Semantic_UI-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 **Things I'm learning RN** 
