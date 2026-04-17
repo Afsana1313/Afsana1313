@@ -23,9 +23,10 @@ I'm a passionate and results-driven **Software Developer** specializing in build
   
 **For CSS Framework** 
 <p dir="auto">
-<a href="#"><img src="https://camo.githubusercontent.com/f97add76c7d21b4415669d99fe79dc561bc742bc2d12199b98a029f8f734fd97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73656d616e74696325323075692d3335424342323f7374796c653d666f722d7468652d6261646765266c6f676f3d73656d616e7469637569266c6f676f436f6c6f723d464646464646" alt="Semantic-UI Badge" data-canonical-src="https://img.shields.io/badge/semantic%20ui-35BCB2?style=for-the-badge&amp;logo=semanticui&amp;logoColor=FFFFFF" style="max-width: 100%;"></a>
-<a href="#"><img src="https://camo.githubusercontent.com/622efccfc348eef3c4c610a3113c8e3f351c8ea3ab359677d32d0f4b1bcd84b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e7425323064657369676e2d3139393046463f7374796c653d666f722d7468652d6261646765266c6f676f3d616e7464657369676e266c6f676f436f6c6f723d464646266c6162656c436f6c6f723d463534303534" alt="Ant-Design Badge" data-canonical-src="https://img.shields.io/badge/ant%20design-1990FF?style=for-the-badge&amp;logo=antdesign&amp;logoColor=FFF&amp;labelColor=F54054" style="max-width: 100%;"></a>
-<a href="#"><img src="https://camo.githubusercontent.com/6482ef61a87bc7bf854e7892b717b82157766f2fd876685d6f379b22f668df06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65787425323075692d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65787475697267266c6f676f436f6c6f723d303030" alt="Next-UI Badge" data-canonical-src="https://img.shields.io/badge/next%20ui-FFF?style=for-the-badge&amp;logo=nextuirg&amp;logoColor=000" style="max-width: 100%;"></a></p>
+![Semantic UI](https://img.shields.io/badge/Semantic_UI-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</p>
 
 **Things I'm learning RN** 
 <p dir="auto">
