@@ -44,7 +44,7 @@ I'm a passionate and results-driven **Software Developer** specializing in build
 
 ## 📫 How to reach me:
  <a href="https://linkedin.com/in/afsana-zaman-nipa" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
- <a href="mailto:afsana2013nipa@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> ](</a> 
+ <a href="mailto:afsana2013nipa@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 
 ---
 
